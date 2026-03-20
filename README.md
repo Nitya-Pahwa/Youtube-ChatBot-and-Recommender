@@ -1,4 +1,3 @@
-# Youtube-ChatBot-and-Recommender
 # 🎬 YouTube Chatbot and Recommender
 
 An intelligent chatbot that allows you to **ask questions about any YouTube video** and get answers directly from its transcript using **Retrieval-Augmented Generation (RAG)**.
