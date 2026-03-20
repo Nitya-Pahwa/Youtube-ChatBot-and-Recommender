@@ -1,0 +1,11 @@
+httpx==0.24.1
+youtube-search-python
+youtube-transcript-api>=0.6.2
+sentence-transformers
+faiss-cpu
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
