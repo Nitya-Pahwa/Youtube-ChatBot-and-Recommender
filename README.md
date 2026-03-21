@@ -52,8 +52,8 @@ An intelligent chatbot that allows you to **ask questions about any YouTube vide
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/youtube-rag-chatbot.git
-cd youtube-rag-chatbot
+[git clone https://github.com/your-username/youtube-rag-chatbot.git
+cd youtube-rag-chatbot](https://github.com/Nitya-Pahwa/Youtube-ChatBot-and-Recommender.git)
 ```
 
 ### 2. Install dependencies
